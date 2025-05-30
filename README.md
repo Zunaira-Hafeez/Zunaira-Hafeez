@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi there 👋 I'm Zunaira!
 
-<!--
-**Zunaira-Hafeez/Zunaira-Hafeez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Scientist | Data Analyst
 
-Here are some ideas to get you started:
+I'm passionate about turning data into insights to solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+- Python | Pandas | NumPy | Scikit-learn
+- SQL | Power BI | Tableau
+- Jupyter Notebook | Git & GitHub
+
+### Projects
+- [Twitter Sentiment Analysis](https://github.com/Zunaira-Hafeez/twitter-sentiment)
+- [Global Sales Dashboard](https://github.com/Zunaira-Hafeez/global-sales-dashboard)
+
+### Connect with me
+- LinkedIn: [your-linkedin](https://linkedin.com/in/yourprofile)
+- Email: youremail@example.com
+
+😄 Pronouns: She/Her  
+⚡ Fun fact: I love solving puzzles!
