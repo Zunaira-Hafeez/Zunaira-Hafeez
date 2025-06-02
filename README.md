@@ -106,69 +106,55 @@
 
 ## 📌 Pinned Projects
 
-<div align="center">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/yourusername/Scrap-Twitter-Followers">
-        <img src="https://img.shields.io/badge/-Scrap--Twitter--Followers-24292e?style=for-the-badge&logo=github&logoColor=white" alt="Scrap Twitter Followers">
-      </a>
-      <br />
-      <b>Retrieve the list of Twitter Followers</b><br />
-      <i>Jupyter Notebook</i>
-    </td>
-    
-    <td>
-      <a href="https://github.com/yourusername/Sentiment-Analysis-Python">
-        <img src="https://img.shields.io/badge/-Sentiment--Analysis--Python-24292e?style=for-the-badge&logo=github&logoColor=white" alt="Sentiment Analysis Python">
-      </a>
-      <br />
-      <b>Sentiment Analysis on IMDB Dataset</b><br />
-      <i>Jupyter Notebook</i>
-    </td>
-  </tr>
+  <div style="border: 1px solid #ddd; border-radius: 12px; padding: 16px; width: 45%; min-width: 280px;">
+    <a href="https://github.com/yourusername/Scrap-Twitter-Followers">
+      <strong>Scrap Twitter Followers</strong>
+    </a>
+    <p>Retrieve the list of Twitter Followers</p>
+    <code>Jupyter Notebook</code>
+  </div>
 
-  <tr>
-    <td>
-      <a href="https://github.com/yourusername/Scrap-Youtube-Comments">
-        <img src="https://img.shields.io/badge/-Scrap--Youtube--Comments-24292e?style=for-the-badge&logo=github&logoColor=white" alt="Scrap Youtube Comments">
-      </a>
-      <br />
-      <b>Scrape comments and dates from a YouTube video</b><br />
-      <i>Jupyter Notebook</i>
-    </td>
-    
-    <td>
-      <a href="https://github.com/yourusername/Sentiment-Analysis-of-Twitter-Trend">
-        <img src="https://img.shields.io/badge/-Twitter--Trend--Sentiment--Analysis-24292e?style=for-the-badge&logo=github&logoColor=white" alt="Twitter Trend Sentiment Analysis">
-      </a>
-      <br />
-      <b>Sentiment Analysis of Twitter Trend: #امپورٹڈ_حکومت_نامنظور</b><br />
-      <i>Jupyter Notebook</i>
-    </td>
-  </tr>
+  <div style="border: 1px solid #ddd; border-radius: 12px; padding: 16px; width: 45%; min-width: 280px;">
+    <a href="https://github.com/yourusername/Sentiment-Analysis-Python">
+      <strong>Sentiment Analysis Python</strong>
+    </a>
+    <p>Sentiment Analysis on IMDB Dataset</p>
+    <code>Jupyter Notebook</code>
+  </div>
 
-  <tr>
-    <td>
-      <a href="https://github.com/yourusername/MapReduce-Presentation">
-        <img src="https://img.shields.io/badge/-MapReduce--Presentation-24292e?style=for-the-badge&logo=github&logoColor=white" alt="MapReduce Presentation">
-      </a>
-      <br />
-      <b>MapReduce Concept Presentation</b><br />
-      <i>Slides / Report</i>
-    </td>
-    
-    <td>
-      <a href="https://github.com/yourusername/Stress-Detection">
-        <img src="https://img.shields.io/badge/-Stress--Detection-24292e?style=for-the-badge&logo=github&logoColor=white" alt="Stress Detection">
-      </a>
-      <br />
-      <b>Stress Detection Using ML Techniques</b><br />
-      <i>Python</i>
-    </td>
-  </tr>
-</table>
+  <div style="border: 1px solid #ddd; border-radius: 12px; padding: 16px; width: 45%; min-width: 280px;">
+    <a href="https://github.com/yourusername/Scrap-Youtube-Comments">
+      <strong>Scrap YouTube Comments</strong>
+    </a>
+    <p>Scrape comments and dates from YouTube videos</p>
+    <code>Jupyter Notebook</code>
+  </div>
+
+  <div style="border: 1px solid #ddd; border-radius: 12px; padding: 16px; width: 45%; min-width: 280px;">
+    <a href="https://github.com/yourusername/Sentiment-Analysis-of-Twitter-Trend">
+      <strong>Sentiment Analysis of Twitter Trend</strong>
+    </a>
+    <p>Sentiment Analysis of Trend: #امپورٹڈ_حکومت_نامنظور</p>
+    <code>Jupyter Notebook</code>
+  </div>
+
+  <div style="border: 1px solid #ddd; border-radius: 12px; padding: 16px; width: 45%; min-width: 280px;">
+    <a href="https://github.com/yourusername/MapReduce-Presentation">
+      <strong>MapReduce Presentation</strong>
+    </a>
+    <p>MapReduce Concept Presentation</p>
+    <code>Slides / Report</code>
+  </div>
+
+  <div style="border: 1px solid #ddd; border-radius: 12px; padding: 16px; width: 45%; min-width: 280px;">
+    <a href="https://github.com/yourusername/Stress-Detection">
+      <strong>Stress Detection</strong>
+    </a>
+    <p>Stress detection using machine learning techniques</p>
+    <code>Python</code>
+  </div>
 
 </div>
 
