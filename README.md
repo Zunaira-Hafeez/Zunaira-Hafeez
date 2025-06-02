@@ -104,40 +104,47 @@
 
 ---
 
-## 📌 Pinned Repositories
+## 📌 Pinned
 
-### [Scrap-Twitter-Followers](https://github.com/YourGitHubUsername/Scrap-Twitter-Followers)  
+### 📄 [Scrap-Twitter-Followers](https://github.com/YourGitHubUsername/Scrap-Twitter-Followers)  
+<span style="background:#e5e7eb; border-radius:4px; padding:0 6px; font-size:0.75rem;">Public</span>  
 Retrieve the list of Twitter Followers  
-*Jupyter Notebook*
+📝 *Jupyter Notebook*
 
-### [Sentiment-Analysis-Python](https://github.com/YourGitHubUsername/Sentiment-Analysis-Python)  
+### 📄 [Sentiment-Analysis-Python](https://github.com/YourGitHubUsername/Sentiment-Analysis-Python)  
+<span style="background:#e5e7eb; border-radius:4px; padding:0 6px; font-size:0.75rem;">Public</span>  
 Sentiment Analysis on IMDB Dataset in Python  
-*Jupyter Notebook*
+📝 *Jupyter Notebook*
 
-### [Scrap-Youtube-Comments](https://github.com/YourGitHubUsername/Scrap-Youtube-Comments)  
+### 📄 [Scrap-Youtube-Comments](https://github.com/YourGitHubUsername/Scrap-Youtube-Comments)  
+<span style="background:#e5e7eb; border-radius:4px; padding:0 6px; font-size:0.75rem;">Public</span>  
 Scrap the comments and date from YouTube video  
-*Jupyter Notebook*
+📝 *Jupyter Notebook*
 
-### [Sentiment-Analysis-of-Twitter-Trend](https://github.com/YourGitHubUsername/Sentiment-Analysis-of-Twitter-Trend)  
-Sentiment Analysis of Twitter Trend #امپورٹڈ_حکومت_نامنظور  
-*Jupyter Notebook*
-
-### [MapReduce-Presentation](https://github.com/YourGitHubUsername/MapReduce-Presentation)  
-MapReduce Presentation  
-*Jupyter Notebook*
-
-### [Stress-Detection](https://github.com/YourGitHubUsername/Stress-Detection)  
-Stress Detection  
-*Python*
+### 📄 [Stress-Detection](https://github.com/YourGitHubUsername/Stress-Detection)  
+<span style="background:#e5e7eb; border-radius:4px; padding:0 6px; font-size:0.75rem;">Public</span>  
+Detecting stress based on data  
+🐍 *Python*
 
 ---
 
 ## 📅 Contributions in the last year
 
-![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=YourGitHubUsername&theme=github)
+34 contributions in the last year
+
+<!-- Contribution Graph Image -->
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=YourGitHubUsername&theme=react-dark)
+
+Learn how we count contributions
+
+---
+
+### Contribution activity
+
+**May 2025** - Created 15 commits in 1 repository  
+[MaimoonaKhilji/DIP_MATLAB](https://github.com/MaimoonaKhilji/DIP_MATLAB) — 15 commits
 
 ---
 
 © 2025 GitHub, Inc.  
-Footer navigation | Terms | Privacy | Security | Status | Docs | Contact | Manage cookies  
-_Do not share my personal information_
+[Terms](#) | [Privacy](#) | [Security](#) | [Status](#) | [Docs](#) | [Contact](#) | [Manage cookies](#)
