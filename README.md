@@ -1,16 +1,15 @@
-<h1 align="center"> 👋 Hey, I'm Zunaira Hafeez</h1>
-
-<h3 align="center">Data Scientist | Data Analyst | Data Engineer</h3>
+<h1 align="center">👋 Hi, I'm Zunaira Hafeez</h1>
+<h3 align="center">Data Scientist | Data Analyst</h3>
 
 <p align="center">
-  I'm passionate about leveraging data to derive insights and make informed decisions.<br>
-  My expertise lies in:
+  I turn data into actionable insights to solve real-world problems and drive smart decisions.<br>
+  My focus areas include:
 </p>
 
 <p align="center">
-  Data Analysis and Visualization &nbsp; | &nbsp; 
-  Machine Learning and Predictive Modeling &nbsp; | &nbsp;
-  Data Engineering and ETL Processes
+  Data Analysis & Visualization &nbsp; | &nbsp;
+  Machine Learning &nbsp; | &nbsp;
+  Data Pipelines & Automation
 </p>
 
 ---
