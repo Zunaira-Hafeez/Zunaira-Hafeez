@@ -132,7 +132,6 @@ Detecting stress based on data
 
 34 contributions in the last year
 
-<!-- Contribution Graph Image -->
 ![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=YourGitHubUsername&theme=react-dark)
 
 Learn how we count contributions
@@ -148,3 +147,4 @@ Learn how we count contributions
 
 © 2025 GitHub, Inc.  
 [Terms](#) | [Privacy](#) | [Security](#) | [Status](#) | [Docs](#) | [Contact](#) | [Manage cookies](#)
+
