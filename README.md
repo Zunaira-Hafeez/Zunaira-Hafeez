@@ -15,10 +15,10 @@
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 Language Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zunaira-Hafeez&show_icons=true&theme=radical" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zunaira-Hafeez&layout=compact&theme=radical" width="450"/>
 </p>
 
 ---
@@ -43,25 +43,46 @@
 
 <table align="center">
   <tr>
-    <td align="center"><img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white"><br></td>
-    <td align="center"><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"><br>Java</td>
-    <td align="center"><img src="https://img.shields.io/badge/Spyder-FF0000?style=flat-square&logo=spyderide&logoColor=white"><br>Spyder</td>
-    <td align="center"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"><br>Firebase</td>
-    <td align="center"><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"><br>MongoDB</td>
+    <th>Python</th>
+    <th>Java</th>
+    <th>Spyder</th>
+    <th>Firebase</th>
+    <th>MongoDB</th>
   </tr>
   <tr>
-    <td align="center"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"><br>TensorFlow</td>
-    <td align="center"><img src="https://img.shields.io/badge/RStudio-75AADB?style=flat-square&logo=rstudio&logoColor=white"><br>RStudio</td>
-    <td align="center"><img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white"><br>R</td>
-    <td align="center"><img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"><br>Pandas</td>
-    <td align="center"><img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"><br>Oracle</td>
+    <td align="center"><img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white"></td>
+    <td align="center"><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"></td>
+    <td align="center"><img src="https://img.shields.io/badge/Spyder-FF0000?style=flat-square&logo=spyderide&logoColor=white"></td>
+    <td align="center"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"></td>
+    <td align="center"><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white"><br>MATLAB</td>
-    <td align="center"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"><br>MySQL</td>
-    <td align="center"><img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"><br>Jupyter</td>
-    <td align="center"><img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"><br>Power BI</td>
-    <td align="center"><img src="https://img.shields.io/badge/MS_Office-D83B01?style=flat-square&logo=microsoft-office&logoColor=white"><br>MS Office</td>
+    <th>TensorFlow</th>
+    <th>RStudio</th>
+    <th>R</th>
+    <th>Pandas</th>
+    <th>Oracle</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"></td>
+    <td align="center"><img src="https://img.shields.io/badge/RStudio-75AADB?style=flat-square&logo=rstudio&logoColor=white"></td>
+    <td align="center"><img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white"></td>
+    <td align="center"><img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"></td>
+    <td align="center"><img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"></td>
+  </tr>
+  <tr>
+    <th>MATLAB</th>
+    <th>MySQL</th>
+    <th>Jupyter</th>
+    <th>Power BI</th>
+    <th>MS Office</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white"></td>
+    <td align="center"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"></td>
+    <td align="center"><img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"></td>
+    <td align="center"><img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"></td>
+    <td align="center"><img src="https://img.shields.io/badge/MS_Office-D83B01?style=flat-square&logo=microsoft-office&logoColor=white"></td>
   </tr>
 </table>
 
