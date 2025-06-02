@@ -8,22 +8,22 @@
 </p>
 
 <p align="center">
-  • Data Analysis and Visualization &nbsp; | &nbsp; 
-  • Machine Learning and Predictive Modeling &nbsp; | &nbsp;
-  • Data Engineering and ETL Processes
+  Data Analysis and Visualization &nbsp; | &nbsp; 
+  Machine Learning and Predictive Modeling &nbsp; | &nbsp;
+  Data Engineering and ETL Processes
 </p>
 
 ---
 
-## 📊 Language Statistics
+### Language Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zunaira-Hafeez&layout=compact&theme=radical" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zunaira-Hafeez&layout=compact&theme=radical" width="400"/>
 </p>
 
 ---
 
-## 🤝 Connect with Me
+###  Connect with Me
 
 <p align="center">
   <a href="https://linkedin.com/in/zunaira-hafeez-77544a260" target="_blank">
@@ -39,7 +39,7 @@
 
 ---
 
-## 🛠️ Languages and Tools
+### Languages and Tools
 
 <table align="center">
   <tr>
@@ -88,7 +88,7 @@
 
 ---
 
-## 🔥 GitHub Streak
+### GitHub Streak
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zunaira-Hafeez&theme=radical" width="450"/>
@@ -96,7 +96,7 @@
 
 ---
 
-## 📈 Contribution Graph
+### Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zunaira-Hafeez&theme=react-dark&hide_border=true" width="100%"/>
@@ -104,7 +104,7 @@
 
 ---
 
-## 📌 Pinned Projects
+### Pinned Projects
 
 | Project | Project |
 |--------|---------|
