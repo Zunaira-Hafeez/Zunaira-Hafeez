@@ -106,25 +106,37 @@
 
 ## 📌 Pinned
 
+<div style="display: flex; flex-wrap: wrap; gap: 1rem;">
+
+<div style="flex: 1 1 300px; background: #fff; border-radius: 10px; padding: 1rem; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
 ### 📄 [Scrap-Twitter-Followers](https://github.com/YourGitHubUsername/Scrap-Twitter-Followers)  
 <span style="background:#e5e7eb; border-radius:4px; padding:0 6px; font-size:0.75rem;">Public</span>  
 Retrieve the list of Twitter Followers  
 📝 *Jupyter Notebook*
+</div>
 
+<div style="flex: 1 1 300px; background: #fff; border-radius: 10px; padding: 1rem; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
 ### 📄 [Sentiment-Analysis-Python](https://github.com/YourGitHubUsername/Sentiment-Analysis-Python)  
 <span style="background:#e5e7eb; border-radius:4px; padding:0 6px; font-size:0.75rem;">Public</span>  
 Sentiment Analysis on IMDB Dataset in Python  
 📝 *Jupyter Notebook*
+</div>
 
+<div style="flex: 1 1 300px; background: #fff; border-radius: 10px; padding: 1rem; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
 ### 📄 [Scrap-Youtube-Comments](https://github.com/YourGitHubUsername/Scrap-Youtube-Comments)  
 <span style="background:#e5e7eb; border-radius:4px; padding:0 6px; font-size:0.75rem;">Public</span>  
 Scrap the comments and date from YouTube video  
 📝 *Jupyter Notebook*
+</div>
 
+<div style="flex: 1 1 300px; background: #fff; border-radius: 10px; padding: 1rem; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
 ### 📄 [Stress-Detection](https://github.com/YourGitHubUsername/Stress-Detection)  
 <span style="background:#e5e7eb; border-radius:4px; padding:0 6px; font-size:0.75rem;">Public</span>  
 Detecting stress based on data  
 🐍 *Python*
+</div>
+
+</div>
 
 ---
 
