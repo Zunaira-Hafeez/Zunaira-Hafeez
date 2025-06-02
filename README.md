@@ -104,11 +104,60 @@
 
 ---
 
-### Pinned Projects:
-| [**Scrap Twitter Followers**](https://github.com/yourusername/Scrap-Twitter-Followers) <br> Retrieve the list of Twitter Followers <br> <sub><i>Jupyter Notebook</i></sub> | [**Sentiment Analysis Python**](https://github.com/yourusername/Sentiment-Analysis-Python) <br> Sentiment Analysis on IMDB Dataset <br> <sub><i>Jupyter Notebook</i></sub> |
-|:---|:---|
-| [**Scrap YouTube Comments**](https://github.com/yourusername/Scrap-Youtube-Comments) <br> Scrape comments and dates from YouTube videos <br> <sub><i>Jupyter Notebook</i></sub> | [**Sentiment Analysis of Twitter Trend**](https://github.com/yourusername/Sentiment-Analysis-of-Twitter-Trend) <br> Sentiment Analysis of Trend: #امپورٹڈ_حکومت_نامنظور <br> <sub><i>Jupyter Notebook</i></sub> |
-| [**MapReduce Presentation**](https://github.com/yourusername/MapReduce-Presentation) <br> MapReduce Concept Presentation <br> <sub><i>Slides / Report</i></sub> | [**Stress Detection**](https://github.com/yourusername/Stress-Detection) <br> Stress detection using machine learning techniques <br> <sub><i>Python</i></sub> |
+### 📌 Pinned Projects
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+
+  <div style="flex: 1 1 45%; background-color: #f6f8fa; border-radius: 10px; padding: 15px; box-shadow: 0 2px 5px rgb(0 0 0 / 0.1);">
+    <a href="https://github.com/yourusername/Scrap-Twitter-Followers" style="text-decoration: none; color: #0366d6;">
+      <h3 style="margin-top: 0; margin-bottom: 8px; text-align: center;">Scrap Twitter Followers</h3>
+    </a>
+    <p style="text-align: center; margin: 5px 0;">Retrieve the list of Twitter Followers</p>
+    <p style="font-style: italic; font-size: 0.9em; text-align: center; color: #555;">Jupyter Notebook</p>
+  </div>
+
+  <div style="flex: 1 1 45%; background-color: #f6f8fa; border-radius: 10px; padding: 15px; box-shadow: 0 2px 5px rgb(0 0 0 / 0.1);">
+    <a href="https://github.com/yourusername/Sentiment-Analysis-Python" style="text-decoration: none; color: #0366d6;">
+      <h3 style="margin-top: 0; margin-bottom: 8px; text-align: center;">Sentiment Analysis Python</h3>
+    </a>
+    <p style="text-align: center; margin: 5px 0;">Sentiment Analysis on IMDB Dataset</p>
+    <p style="font-style: italic; font-size: 0.9em; text-align: center; color: #555;">Jupyter Notebook</p>
+  </div>
+
+  <div style="flex: 1 1 45%; background-color: #f6f8fa; border-radius: 10px; padding: 15px; box-shadow: 0 2px 5px rgb(0 0 0 / 0.1);">
+    <a href="https://github.com/yourusername/Scrap-Youtube-Comments" style="text-decoration: none; color: #0366d6;">
+      <h3 style="margin-top: 0; margin-bottom: 8px; text-align: center;">Scrap YouTube Comments</h3>
+    </a>
+    <p style="text-align: center; margin: 5px 0;">Scrape comments and dates from YouTube videos</p>
+    <p style="font-style: italic; font-size: 0.9em; text-align: center; color: #555;">Jupyter Notebook</p>
+  </div>
+
+  <div style="flex: 1 1 45%; background-color: #f6f8fa; border-radius: 10px; padding: 15px; box-shadow: 0 2px 5px rgb(0 0 0 / 0.1);">
+    <a href="https://github.com/yourusername/Sentiment-Analysis-of-Twitter-Trend" style="text-decoration: none; color: #0366d6;">
+      <h3 style="margin-top: 0; margin-bottom: 8px; text-align: center;">Sentiment Analysis of Twitter Trend</h3>
+    </a>
+    <p style="text-align: center; margin: 5px 0;">Sentiment Analysis of Trend: #امپورٹڈ_حکومت_نامنظور</p>
+    <p style="font-style: italic; font-size: 0.9em; text-align: center; color: #555;">Jupyter Notebook</p>
+  </div>
+
+  <div style="flex: 1 1 45%; background-color: #f6f8fa; border-radius: 10px; padding: 15px; box-shadow: 0 2px 5px rgb(0 0 0 / 0.1);">
+    <a href="https://github.com/yourusername/MapReduce-Presentation" style="text-decoration: none; color: #0366d6;">
+      <h3 style="margin-top: 0; margin-bottom: 8px; text-align: center;">MapReduce Presentation</h3>
+    </a>
+    <p style="text-align: center; margin: 5px 0;">MapReduce Concept Presentation</p>
+    <p style="font-style: italic; font-size: 0.9em; text-align: center; color: #555;">Slides / Report</p>
+  </div>
+
+  <div style="flex: 1 1 45%; background-color: #f6f8fa; border-radius: 10px; padding: 15px; box-shadow: 0 2px 5px rgb(0 0 0 / 0.1);">
+    <a href="https://github.com/yourusername/Stress-Detection" style="text-decoration: none; color: #0366d6;">
+      <h3 style="margin-top: 0; margin-bottom: 8px; text-align: center;">Stress Detection</h3>
+    </a>
+    <p style="text-align: center; margin: 5px 0;">Stress detection using machine learning techniques</p>
+    <p style="font-style: italic; font-size: 0.9em; text-align: center; color: #555;">Python</p>
+  </div>
+
+</div>
+
 
 
 
