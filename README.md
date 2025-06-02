@@ -108,11 +108,14 @@
 
 ### 📌 Pinned Projects
 
+### 📌 Pinned Projects
+
 | [**Scrap Twitter Followers**](https://github.com/yourusername/Scrap-Twitter-Followers) <br> Retrieve the list of Twitter Followers <br> <sub><i>Jupyter Notebook</i></sub> 
 | [**Sentiment Analysis Python**](https://github.com/yourusername/Sentiment-Analysis-Python) <br> Sentiment Analysis on IMDB Dataset <br> <sub><i>Jupyter Notebook</i></sub> |
 |:---|:---|
-| [**MapReduce Presentation**](https://github.com/yourusername/MapReduce-Presentation) <br> MapReduce Concept Presentation <br> <sub><i>Slides / Report</i></sub> 
-| [**Stress Detection**](https://github.com/yourusername/Stress-Detection) <br> Stress detection using machine learning techniques <br> <sub><i>Python</i></sub> |
+| [**Scrap YouTube Comments**](https://github.com/yourusername/Scrap-Youtube-Comments) <br> Scrape comments and dates from YouTube videos <br> <sub><i>Jupyter Notebook</i></sub> | [**Sentiment Analysis of Twitter Trend**](https://github.com/yourusername/Sentiment-Analysis-of-Twitter-Trend) <br> Sentiment Analysis of Trend: #امپورٹڈ_حکومت_نامنظور <br> <sub><i>Jupyter Notebook</i></sub> |
+| [**MapReduce Presentation**](https://github.com/yourusername/MapReduce-Presentation) <br> MapReduce Concept Presentation <br> <sub><i>Slides / Report</i></sub> | [**Stress Detection**](https://github.com/yourusername/Stress-Detection) <br> Stress detection using machine learning techniques <br> <sub><i>Python</i></sub> |
+
 
 
 ---
