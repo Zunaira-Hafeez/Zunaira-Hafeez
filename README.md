@@ -15,7 +15,7 @@
 
 ---
 
-### Language Statistics
+### Language Statistics:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zunaira-Hafeez&layout=compact&theme=radical" width="400"/>
@@ -23,7 +23,7 @@
 
 ---
 
-###  Connect with Me
+###  Connect with Me:
 
 <p align="center">
   <a href="https://linkedin.com/in/zunaira-hafeez-77544a260" target="_blank">
@@ -39,7 +39,7 @@
 
 ---
 
-### Languages and Tools
+### Languages and Tools:
 
 <table align="center">
   <tr>
@@ -88,7 +88,7 @@
 
 ---
 
-### GitHub Streak
+### GitHub Streak:
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zunaira-Hafeez&theme=radical" width="450"/>
@@ -96,7 +96,7 @@
 
 ---
 
-### Contribution Graph
+### Contribution Graph:
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zunaira-Hafeez&theme=react-dark&hide_border=true" width="100%"/>
@@ -104,9 +104,8 @@
 
 ---
 
-### Pinned Projects
+### Pinned Projects:
 
-| Project | Project |
 |--------|---------|
 | [**Scrap Twitter Followers**](https://github.com/yourusername/Scrap-Twitter-Followers)<br>Retrieve the list of Twitter Followers<br><sub><i>Jupyter Notebook</i></sub> | [**Sentiment Analysis Python**](https://github.com/yourusername/Sentiment-Analysis-Python)<br>Sentiment Analysis on IMDB Dataset<br><sub><i>Jupyter Notebook</i></sub> |
 | [**Scrap YouTube Comments**](https://github.com/yourusername/Scrap-Youtube-Comments)<br>Scrape comments and dates from YouTube videos<br><sub><i>Jupyter Notebook</i></sub> | [**Sentiment Analysis of Twitter Trend**](https://github.com/yourusername/Sentiment-Analysis-of-Twitter-Trend)<br>Sentiment Analysis of Trend: #امپورٹڈ_حکومت_نامنظور<br><sub><i>Jupyter Notebook</i></sub> |
