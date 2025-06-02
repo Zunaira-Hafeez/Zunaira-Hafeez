@@ -106,35 +106,33 @@
 
 ## 📌 Pinned
 
-### 📄 [Scrap-Twitter-Followers](https://github.com/YourGitHubUsername/Scrap-Twitter-Followers)  
+<div style="margin-bottom: 20px; padding: 12px; border-radius: 8px; background-color: #f9fafb;">
+
+### 📄 [Your-First-Project](https://github.com/YourGitHubUsername/Your-First-Project)  
 <span style="background:#e5e7eb; border-radius:4px; padding:0 6px; font-size:0.75rem;">Public</span>  
-Retrieve the list of Twitter Followers  
+Brief description of your first project.  
 📝 *Jupyter Notebook*
 
-### 📄 [Sentiment-Analysis-Python](https://github.com/YourGitHubUsername/Sentiment-Analysis-Python)  
-<span style="background:#e5e7eb; border-radius:4px; padding:0 6px; font-size:0.75rem;">Public</span>  
-Sentiment Analysis on IMDB Dataset in Python  
-📝 *Jupyter Notebook*
+</div>
 
-### 📄 [Scrap-Youtube-Comments](https://github.com/YourGitHubUsername/Scrap-Youtube-Comments)  
-<span style="background:#e5e7eb; border-radius:4px; padding:0 6px; font-size:0.75rem;">Public</span>  
-Scrap the comments and date from YouTube video  
-📝 *Jupyter Notebook*
+<div style="margin-bottom: 20px; padding: 12px; border-radius: 8px; background-color: #f9fafb;">
 
-### 📄 [Sentiment-Analysis-of-Twitter-Trend](https://github.com/YourGitHubUsername/Sentiment-Analysis-of-Twitter-Trend)  
+### 📄 [Your-Second-Project](https://github.com/YourGitHubUsername/Your-Second-Project)  
 <span style="background:#e5e7eb; border-radius:4px; padding:0 6px; font-size:0.75rem;">Public</span>  
-Sentiment Analysis of Twitter Trend #امپورٹڈ_حکومت_نامنظور  
-📝 *Jupyter Notebook*
-
-### 📄 [MapReduce-Presentation](https://github.com/YourGitHubUsername/MapReduce-Presentation)  
-<span style="background:#e5e7eb; border-radius:4px; padding:0 6px; font-size:0.75rem;">Public</span>  
-Mapreduce Presentation  
-📝 *Jupyter Notebook*
-
-### 📄 [Stress-Detection](https://github.com/YourGitHubUsername/Stress-Detection)  
-<span style="background:#e5e7eb; border-radius:4px; padding:0 6px; font-size:0.75rem;">Public</span>  
-Detecting stress based on data  
+Brief description of your second project.  
 🐍 *Python*
+
+</div>
+
+<div style="margin-bottom: 20px; padding: 12px; border-radius: 8px; background-color: #f9fafb;">
+
+### 📄 [Your-Third-Project](https://github.com/YourGitHubUsername/Your-Third-Project)  
+<span style="background:#e5e7eb; border-radius:4px; padding:0 6px; font-size:0.75rem;">Public</span>  
+Brief description of your third project.  
+📝 *Jupyter Notebook*
+
+</div>
+
 
 ---
 
