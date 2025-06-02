@@ -104,76 +104,40 @@
 
 ---
 
-  <!-- Pinned Section -->
-  <section>
-    <h2 class="text-2xl font-semibold mb-6">Pinned</h2>
-    <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
-      
-      <!-- Project Card -->
-      <div class="bg-white p-5 rounded-xl shadow border">
-        <h3 class="text-lg font-semibold text-blue-600">📄 Scrap-Twitter-Followers <span class="text-xs bg-gray-200 rounded px-2 py-0.5 ml-1">Public</span></h3>
-        <p class="text-sm mt-1">Retrieve the list of Twitter Followers</p>
-        <div class="flex items-center text-sm text-gray-500 mt-2">
-          <span class="mr-2 text-orange-500">●</span> Jupyter Notebook
-        </div>
-      </div>
+## 📌 Pinned Repositories
 
-      <!-- Duplicate this block for more projects -->
-      <div class="bg-white p-5 rounded-xl shadow border">
-        <h3 class="text-lg font-semibold text-blue-600">📄 Sentiment-Analysis-Python <span class="text-xs bg-gray-200 rounded px-2 py-0.5 ml-1">Public</span></h3>
-        <p class="text-sm mt-1">Sentiment Analysis on IMDB Dataset in Python</p>
-        <div class="flex items-center text-sm text-gray-500 mt-2">
-          <span class="mr-2 text-orange-500">●</span> Jupyter Notebook
-        </div>
-      </div>
+### [Scrap-Twitter-Followers](https://github.com/YourGitHubUsername/Scrap-Twitter-Followers)  
+Retrieve the list of Twitter Followers  
+*Jupyter Notebook*
 
-      <div class="bg-white p-5 rounded-xl shadow border">
-        <h3 class="text-lg font-semibold text-blue-600">📄 Scrap-Youtube-Comments <span class="text-xs bg-gray-200 rounded px-2 py-0.5 ml-1">Public</span></h3>
-        <p class="text-sm mt-1">Scrap the comments and date from YouTube video</p>
-        <div class="flex items-center text-sm text-gray-500 mt-2">
-          <span class="mr-2 text-orange-500">●</span> Jupyter Notebook
-        </div>
-      </div>
+### [Sentiment-Analysis-Python](https://github.com/YourGitHubUsername/Sentiment-Analysis-Python)  
+Sentiment Analysis on IMDB Dataset in Python  
+*Jupyter Notebook*
 
-      <div class="bg-white p-5 rounded-xl shadow border">
-        <h3 class="text-lg font-semibold text-blue-600">📄 Stress-Detection <span class="text-xs bg-gray-200 rounded px-2 py-0.5 ml-1">Public</span></h3>
-        <p class="text-sm mt-1">Detecting stress based on data</p>
-        <div class="flex items-center text-sm text-gray-500 mt-2">
-          <span class="mr-2 text-blue-500">●</span> Python
-        </div>
-      </div>
+### [Scrap-Youtube-Comments](https://github.com/YourGitHubUsername/Scrap-Youtube-Comments)  
+Scrap the comments and date from YouTube video  
+*Jupyter Notebook*
 
-    </div>
-  </section>
+### [Sentiment-Analysis-of-Twitter-Trend](https://github.com/YourGitHubUsername/Sentiment-Analysis-of-Twitter-Trend)  
+Sentiment Analysis of Twitter Trend #امپورٹڈ_حکومت_نامنظور  
+*Jupyter Notebook*
 
-  <!-- Contribution Graph Section -->
-  <section class="mt-12">
-    <h2 class="text-xl font-semibold mb-4">34 contributions in the last year</h2>
-    
-    <!-- Fake Graph Image Placeholder (you can use real SVG later) -->
-    <div class="bg-white border rounded-lg shadow p-4 text-center">
-      <p class="text-gray-400">[Contribution Graph Here]</p>
-      <p class="text-sm mt-2 text-gray-500">Learn how we count contributions</p>
-    </div>
+### [MapReduce-Presentation](https://github.com/YourGitHubUsername/MapReduce-Presentation)  
+MapReduce Presentation  
+*Jupyter Notebook*
 
-    <!-- Contribution Activity -->
-    <div class="mt-8">
-      <h3 class="text-lg font-semibold">Contribution activity</h3>
-      <p class="mt-2 text-sm text-gray-600"><strong>May 2025</strong> - Created 15 commits in 1 repository</p>
-      <a href="#" class="text-blue-600 hover:underline text-sm">MaimoonaKhilji/DIP_MATLAB</a> <span class="text-gray-500 text-sm">15 commits</span>
-    </div>
-  </section>
+### [Stress-Detection](https://github.com/YourGitHubUsername/Stress-Detection)  
+Stress Detection  
+*Python*
 
-  <!-- Footer -->
-  <footer class="mt-16 text-sm text-gray-500 border-t pt-6">
-    <p>© 2025 GitHub, Inc.</p>
-    <div class="mt-2 flex flex-wrap gap-4">
-      <a href="#">Terms</a>
-      <a href="#">Privacy</a>
-      <a href="#">Security</a>
-      <a href="#">Status</a>
-      <a href="#">Docs</a>
-      <a href="#">Contact</a>
-      <a href="#">Manage cookies</a>
-    </div>
-  </footer>
+---
+
+## 📅 Contributions in the last year
+
+![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=YourGitHubUsername&theme=github)
+
+---
+
+© 2025 GitHub, Inc.  
+Footer navigation | Terms | Privacy | Security | Status | Docs | Contact | Manage cookies  
+_Do not share my personal information_
