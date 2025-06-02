@@ -99,16 +99,35 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="[https://github-readme-activity-graph.cyclic.app/graph?username=Zunaira-Hafeez&theme=react-dark](https://github-readme-activity-graph.vercel.app/graph?username=Zunaira-Hafeez&theme=react-dark&hide_border=true)" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zunaira-Hafeez&theme=react-dark&hide_border=true" width="100%"/>
 </p>
-
 
 ---
 
 ## 📌 Pinned Projects
 
 - [Global Sales Dashboard](https://github.com/Zunaira-Hafeez/global-sales-dashboard)  
-  🟡 Interactive dashboard built using Power BI.
+  🟡 Interactive sales dashboard built with Power BI.
 
 - [Twitter Sentiment Analysis](https://github.com/Zunaira-Hafeez/twitter-sentiment)  
   🟣 Real-time sentiment analysis using Python & Spark Streaming.
+
+- [Scrap-Twitter-Followers](https://github.com/Zunaira-Hafeez/Scrap-Twitter-Followers)  
+  🐦 Retrieve the list of Twitter followers using Jupyter Notebook.
+
+- [Sentiment-Analysis-Python](https://github.com/Zunaira-Hafeez/Sentiment-Analysis-Python)  
+  🎭 Sentiment analysis on the IMDB dataset using Python.
+
+- [Scrap-Youtube-Comments](https://github.com/Zunaira-Hafeez/Scrap-Youtube-Comments)  
+  📺 Scrape comments and dates from YouTube videos using Jupyter Notebook.
+
+- [Sentiment-Analysis-of-Twitter-Trend](https://github.com/Zunaira-Hafeez/Sentiment-Analysis-of-Twitter-Trend)  
+  📈 Sentiment analysis of the Twitter trend #امپورٹڈ_حکومت_نامنظور.
+
+- [MapReduce-Presentation](https://github.com/Zunaira-Hafeez/MapReduce-Presentation)  
+  🗺️ MapReduce presentation.
+
+- [Stress-Detection](https://github.com/Zunaira-Hafeez/Stress-Detection)  
+  🧠 Stress detection using Python.
+
+---
