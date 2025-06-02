@@ -101,19 +101,4 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zunaira-Hafeez&theme=react-dark&hide_border=true" width="100%"/>
 </p>
-
----
-
-### Pinned Projects:
-
-### 📌 Pinned Projects
-
-### 📌 Pinned Projects
-
-| [**Scrap Twitter Followers**](https://github.com/yourusername/Scrap-Twitter-Followers) <br> Retrieve the list of Twitter Followers <br> <sub><i>Jupyter Notebook</i></sub> | [**Sentiment Analysis Python**](https://github.com/yourusername/Sentiment-Analysis-Python) <br> Sentiment Analysis on IMDB Dataset <br> <sub><i>Jupyter Notebook</i></sub> |
-|:---|:---|
-| [**Scrap Twitter Followers**](https://github.com/yourusername/Scrap-Twitter-Followers) <br> Retrieve the list of Twitter Followers <br> <sub><i>Jupyter Notebook</i></sub> | [**Sentiment Analysis Python**](https://github.com/yourusername/Sentiment-Analysis-Python) <br> Sentiment Analysis on IMDB Dataset <br> <sub><i>Jupyter Notebook</i></sub> |
-
-
-
 ---
