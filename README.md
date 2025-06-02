@@ -106,56 +106,10 @@
 
 ## 📌 Pinned Projects
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-
-  <div style="border: 1px solid #ddd; border-radius: 12px; padding: 16px; width: 45%; min-width: 280px;">
-    <a href="https://github.com/yourusername/Scrap-Twitter-Followers">
-      <strong>Scrap Twitter Followers</strong>
-    </a>
-    <p>Retrieve the list of Twitter Followers</p>
-    <code>Jupyter Notebook</code>
-  </div>
-
-  <div style="border: 1px solid #ddd; border-radius: 12px; padding: 16px; width: 45%; min-width: 280px;">
-    <a href="https://github.com/yourusername/Sentiment-Analysis-Python">
-      <strong>Sentiment Analysis Python</strong>
-    </a>
-    <p>Sentiment Analysis on IMDB Dataset</p>
-    <code>Jupyter Notebook</code>
-  </div>
-
-  <div style="border: 1px solid #ddd; border-radius: 12px; padding: 16px; width: 45%; min-width: 280px;">
-    <a href="https://github.com/yourusername/Scrap-Youtube-Comments">
-      <strong>Scrap YouTube Comments</strong>
-    </a>
-    <p>Scrape comments and dates from YouTube videos</p>
-    <code>Jupyter Notebook</code>
-  </div>
-
-  <div style="border: 1px solid #ddd; border-radius: 12px; padding: 16px; width: 45%; min-width: 280px;">
-    <a href="https://github.com/yourusername/Sentiment-Analysis-of-Twitter-Trend">
-      <strong>Sentiment Analysis of Twitter Trend</strong>
-    </a>
-    <p>Sentiment Analysis of Trend: #امپورٹڈ_حکومت_نامنظور</p>
-    <code>Jupyter Notebook</code>
-  </div>
-
-  <div style="border: 1px solid #ddd; border-radius: 12px; padding: 16px; width: 45%; min-width: 280px;">
-    <a href="https://github.com/yourusername/MapReduce-Presentation">
-      <strong>MapReduce Presentation</strong>
-    </a>
-    <p>MapReduce Concept Presentation</p>
-    <code>Slides / Report</code>
-  </div>
-
-  <div style="border: 1px solid #ddd; border-radius: 12px; padding: 16px; width: 45%; min-width: 280px;">
-    <a href="https://github.com/yourusername/Stress-Detection">
-      <strong>Stress Detection</strong>
-    </a>
-    <p>Stress detection using machine learning techniques</p>
-    <code>Python</code>
-  </div>
-
-</div>
+| Project | Project |
+|--------|---------|
+| [**Scrap Twitter Followers**](https://github.com/yourusername/Scrap-Twitter-Followers)<br>Retrieve the list of Twitter Followers<br><sub><i>Jupyter Notebook</i></sub> | [**Sentiment Analysis Python**](https://github.com/yourusername/Sentiment-Analysis-Python)<br>Sentiment Analysis on IMDB Dataset<br><sub><i>Jupyter Notebook</i></sub> |
+| [**Scrap YouTube Comments**](https://github.com/yourusername/Scrap-Youtube-Comments)<br>Scrape comments and dates from YouTube videos<br><sub><i>Jupyter Notebook</i></sub> | [**Sentiment Analysis of Twitter Trend**](https://github.com/yourusername/Sentiment-Analysis-of-Twitter-Trend)<br>Sentiment Analysis of Trend: #امپورٹڈ_حکومت_نامنظور<br><sub><i>Jupyter Notebook</i></sub> |
+| [**MapReduce Presentation**](https://github.com/yourusername/MapReduce-Presentation)<br>MapReduce Concept Presentation<br><sub><i>Slides / Report</i></sub> | [**Stress Detection**](https://github.com/yourusername/Stress-Detection)<br>Stress detection using machine learning techniques<br><sub><i>Python</i></sub> |
 
 ---
