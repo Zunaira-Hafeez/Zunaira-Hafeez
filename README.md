@@ -107,28 +107,38 @@
 ## 📌 Pinned Projects
 
 <div align="center">
+
   <table>
     <tr>
-      <td width="45%" valign="top">
-        <strong><a href="https://github.com/Zunaira-Hafeez/global-sales-dashboard">📊 Global Sales Dashboard</a></strong><br>
-        Interactive sales dashboard built with Power BI.
+      <td width="45%">
+        <div style="border:1px solid #ccc; border-radius:10px; padding:15px; margin:10px; box-shadow: 2px 2px 8px rgba(0,0,0,0.1);">
+          <strong><a href="https://github.com/Zunaira-Hafeez/global-sales-dashboard">📊 Global Sales Dashboard</a></strong><br>
+          Interactive dashboard built using Power BI.
+        </div>
       </td>
-      <td width="45%" valign="top">
-        <strong><a href="https://github.com/Zunaira-Hafeez/twitter-sentiment">💬 Twitter Sentiment Analysis</a></strong><br>
-        Real-time sentiment analysis using Python & Spark Streaming.
+      <td width="45%">
+        <div style="border:1px solid #ccc; border-radius:10px; padding:15px; margin:10px; box-shadow: 2px 2px 8px rgba(0,0,0,0.1);">
+          <strong><a href="https://github.com/Zunaira-Hafeez/twitter-sentiment">💬 Twitter Sentiment Analysis</a></strong><br>
+          Real-time sentiment analysis using Python & Spark Streaming.
+        </div>
       </td>
     </tr>
     <tr>
-      <td width="45%" valign="top">
-        <strong><a href="https://github.com/Zunaira-Hafeez/Scrap-Twitter-Followers">🐦 Scrap-Twitter-Followers</a></strong><br>
-        Retrieve the list of Twitter followers using Jupyter Notebook.
+      <td width="45%">
+        <div style="border:1px solid #ccc; border-radius:10px; padding:15px; margin:10px; box-shadow: 2px 2px 8px rgba(0,0,0,0.1);">
+          <strong><a href="https://github.com/Zunaira-Hafeez/Scrap-Twitter-Followers">🐦 Scrap Twitter Followers</a></strong><br>
+          Retrieve the list of Twitter followers using Jupyter Notebook.
+        </div>
       </td>
-      <td width="45%" valign="top">
-        <strong><a href="https://github.com/Zunaira-Hafeez/Sentiment-Analysis-Python">🎭 Sentiment-Analysis-Python</a></strong><br>
-        Sentiment analysis on the IMDB dataset using Python.
+      <td width="45%">
+        <div style="border:1px solid #ccc; border-radius:10px; padding:15px; margin:10px; box-shadow: 2px 2px 8px rgba(0,0,0,0.1);">
+          <strong><a href="https://github.com/Zunaira-Hafeez/Sentiment-Analysis-Python">🎭 Sentiment Analysis (IMDB)</a></strong><br>
+          Sentiment analysis on IMDB dataset using Python.
+        </div>
       </td>
     </tr>
   </table>
+
 </div>
 
 ---
@@ -136,7 +146,4 @@
 ## 🗓️ Contribution Activity Summary
 
 **34 contributions** in the last year  
-👉 See full contribution history on your [GitHub Contributions Page](https://github.com/Zunaira-Hafeez)
-
-<details>
-<summary>📅 Contribution Calendar</summary>
+🔗 View on GitHub: [Zunaira-Hafeez's Contributions](https://github.com/Zunaira-Hafeez)
